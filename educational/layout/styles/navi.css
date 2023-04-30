@@ -17,7 +17,7 @@ File: Navigation CSS
 #topnav ul li a:link, #topnav ul li a:visited, #topnav ul li a:hover{display:block; float:left; height:25px; padding:10px 15px 0 15px; background-color:#000000;}
 #topnav ul ul li a:link, #topnav ul ul li a:visited, #topnav ul ul li a:hover{float:left; height:auto; margin:13px 15px 0 0; padding:0 16px 0 0; border-right:1px solid #FFFFFF;}
 #topnav ul ul li.last a{margin-right:0; padding:0; border-right:none;}
-#topnav ul li.active a, #topnav ul li a:hover{color:#FFFFFF; background-color:#000000;}
+#topnav ul li.active a, #topnav ul li a:hover{color:white; background-color:#1a0f36;}
 
 /* ----------------------------------------------Column Navigation------------------------------------- */
 
