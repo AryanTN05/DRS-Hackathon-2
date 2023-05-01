@@ -29,7 +29,7 @@ Inspired By: Sliding Login Panel with jQuery from http://web-kreation.com/index.
 #topbar legend{display:none;}
 #topbar input, #topbar textarea, #topbar select{font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif;}
 #topbar label{display:block; width:270px; margin:0 0 12px 0; padding:0;}
-#topbar label input{display:block; width:262px; margin:5px 0; padding:3px; color:#333333; background-color:#F8F7DF; border:1px solid #CCCCCC;}
+#topbar label input{display:block; width:262px; margin:5px 0; padding:3px; border:1px solid #CCCCCC;}
 #topbar .topbox p input{padding:3px 10px; color:#ffffff; background-color:#000000; border:1px solid #CCCCCC; cursor:pointer;}
 #topbar label input.checkbox{display:inline; width:auto; margin:0 5px 0 0; padding:0;} 
 
