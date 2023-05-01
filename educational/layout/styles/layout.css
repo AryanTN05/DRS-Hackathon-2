@@ -6,7 +6,7 @@
 @import url("featured_slide.css");
 @import url("loginslider.css");
 
-html{overflow-y:scroll;color:white; background-image:linear-gradient(to right, black,rgb(10, 31, 10),black);}
+html{overflow-y:scroll;color:white; background-image:linear-gradient(to right, black,rgb(48, 158, 48),black);}
 body{font-size:12px; font-family:verdana, Arial, Helvetica, sans-serif;width:100%;}
 a{color:white;}
 a:hover{color:blue;}
